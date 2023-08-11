@@ -2,4 +2,6 @@ datos<-rnorm(1000)
 
 use_github()
 hist(datos)
-summary(datos)
+summary<-summary(datos)
+prueba<- datos
+
